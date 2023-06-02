@@ -1,0 +1,2 @@
+# OBS_Studio_CursorHighlighter
+OBS_Studio_CursorHighlighter
